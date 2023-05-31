@@ -11,3 +11,21 @@ header{
     background-color: lightblue;
     color: white;
 }
+main{
+    background-color: white;
+    width: 80vh;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px 20px;
+}
+h2{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(93, 8, 133), rgba(235, 235, 235, 0.527) );
+    border-right: 5px 5px;
+}
+*{
+    text-shadow: 1px 1px 0px white
+}
+h1{
+    text-shadow: 1px 1px 1px black;
+}
